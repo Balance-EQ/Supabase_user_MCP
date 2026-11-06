@@ -25,7 +25,6 @@ gated next profile under [issue #60](https://github.com/jryski/Supabase_user_MCP
 **Integrating the multi-user updates?** Use [PR #147's branch and maintainer handoff](docs/INTEGRATION_HANDOFF.md),
 including the exact checkout coordinate, stacked PRs and security backport.
 
-
 This branch adds an explicit [multi-user application composition](docs/MULTI_USER_APPLICATION_COMPOSITION.md),
 the [finite approved capability registry](docs/CAPABILITY_REGISTRATION.md), and a
 [hosted own-account consent handler](docs/HOSTED_OAUTH_CONSENT.md). These are
